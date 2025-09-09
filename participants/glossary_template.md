@@ -1,0 +1,16 @@
+# Personal Glossary (Template)
+
+Add concepts in your words; examples; questions; supports that help you use them.
+
+## Nervous System Terms
+- Window of tolerance: …
+- Co-regulation: …
+
+## Trauma & Development
+- Adaptive response: …
+
+## Neurodivergence
+- Masking: …
+
+## Family Systems
+- Intergenerational transmission: …
