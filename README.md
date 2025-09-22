@@ -1,4 +1,4 @@
-# The Sunu Foundation Retreat (Pre-Release)
+# The EKI Retreat (Pre-Release)
 
 > **Status:** `v0.1-pre` · **License:** CC BY-SA 4.0 · **Scope:** Education-only (“Compass, not cure”)
 
